@@ -327,7 +327,7 @@ const AppNavigator = createAppContainer(MainNavigator)
 
 class Main extends Component {
 
-     // TASK 3 <------------------------------------ W4 WORKSHOP
+     // TASK 3 <-------------------------------------- W4 WORKSHOP
 
     componentDidMount() {
         this.props.fetchCampsites();
